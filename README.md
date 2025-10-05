@@ -1,12 +1,12 @@
 # 🌟 TerraSol.com - NASA Space Apps Challenge 2025 🌟
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://papaya-palmier-6870b6.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://nasa-space-app-challenge-curioverse.netlify.app/)
 
 ## 🚀 Project Overview
 
 **TerraSol.com** is an innovative digital platform developed for the **NASA Space Apps Challenge 2025** under the **"Stellar Stories"** problem statement. Our project transforms complex space weather data from NASA into engaging, illustrated narratives that make space science accessible and inspiring for everyone, from students to space enthusiasts.
 
-**Live Website:** [https://papaya-palmier-6870b6.netlify.app/](https://papaya-palmier-6870b6.netlify.app/)
+**Live Website:** [https://nasa-space-app-challenge-curioverse.netlify.app/](https://nasa-space-app-challenge-curioverse.netlify.app/)
 
 ## 👥 Team CurioVerse
 
@@ -73,19 +73,40 @@ Information about NASA's Centers of Excellence:
 ```
 terrasol/
 ├── public/
-│   ├── images, videos, assets
+│   └── videos/
+│       ├── satelitestorm.mp4
+│       ├── solarstorm.mp4
+│       └── spaceweathervideo.mp4
+│   ├── CGO.png
+│   ├── Parker.png
+│   ├── astroclear.webp
+│   ├── earthsun.png
+│   ├── imap.png
+│   ├── sparta.webp
+│   ├── stereo.png
+│   ├── sword.jpg
+│   └── vite.svg
 ├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── App.css
-│   ├── index.css
 │   ├── assets/
-│   └── pages/
-│       └── StellarStories.jsx
+│   │   ├── specifictestvideo.mp4
+│   │   ├── finalkidfarmer.mp4
+│   │   ├── react.svg
+│   │   └── teacherstudent.mp4
+│   ├── pages/
+│   │   └── StellarStories.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── README.md
+├── earthsun.jpg
+├── eslint.config.js
 ├── index.html
+├── package-lock.json
 ├── package.json
-├── vite.config.js
-└── eslint.config.js
+└── vite.config.js
+
 ```
 
 ### 📁 Directory Overview
@@ -215,7 +236,7 @@ This project is developed for the NASA Space Apps Challenge 2025 and follows ope
 **Team CurioVerse**
 - Email: rozvidhijkv@gmail.com
 - NASA Space Apps Profile: [[Team Profile Link]](https://www.spaceappschallenge.org/2025/find-a-team/curioverse/)
-- Website: [https://papaya-palmier-6870b6.netlify.app/](https://papaya-palmier-6870b6.netlify.app/)
+- Website: [https://nasa-space-app-challenge-curioverse.netlify.app/](https://nasa-space-app-challenge-curioverse.netlify.app/)
 
 ---
 
