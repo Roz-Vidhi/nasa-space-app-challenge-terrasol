@@ -176,7 +176,7 @@ TerraSol.com lights a spark in young minds, making space science not just unders
 git clone https://github.com/your-username/terrasol-website.git
 
 # Navigate to project directory
-cd terrasol-website
+cd terrasol
 
 # Install dependencies
 npm install
