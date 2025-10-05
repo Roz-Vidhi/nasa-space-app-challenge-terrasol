@@ -1,0 +1,56 @@
+/* Page background */
+body {
+  margin: 0;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background: linear-gradient(to bottom, #1a237e, #000000);
+  color: white;
+  text-align: center;
+}
+
+/* Title */
+.title {
+  font-size: 3rem;
+  margin: 20px 0;
+  animation: bounce 2s infinite;
+}
+
+/* Simple bounce effect */
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* Gallery grid */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Video cards */
+.video-card {
+  background: rgba(60, 80, 200, 0.4);
+  border: 3px solid #5c6bc0;
+  border-radius: 20px;
+  padding: 15px;
+  transition: transform 0.3s ease;
+}
+
+.video-card:hover {
+  transform: scale(1.05);
+}
+
+/* Video styling */
+video {
+  width: 100%;
+  border-radius: 15px;
+  border: 2px solid #9fa8da;
+}
+
+/* Footer */
+footer {
+  margin: 30px 0;
+  font-size: 1rem;
+  color: #b0bec5;
+}
