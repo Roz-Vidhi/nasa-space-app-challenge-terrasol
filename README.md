@@ -173,7 +173,7 @@ TerraSol.com lights a spark in young minds, making space science not just unders
 ### Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/terrasol-website.git
+git clone https://github.com/your-username/nasa-space-app-challenge-terrasol.git
 
 # Navigate to project directory
 cd terrasol
@@ -235,7 +235,7 @@ This project is developed for the NASA Space Apps Challenge 2025 and follows ope
 
 **Team CurioVerse**
 - Email: rozvidhijkv@gmail.com
-- NASA Space Apps Profile: [[Team Profile Link]](https://www.spaceappschallenge.org/2025/find-a-team/curioverse/)
+- NASA Space Apps Profile: [https://www.spaceappschallenge.org/2025/find-a-team/curioverse/](https://www.spaceappschallenge.org/2025/find-a-team/curioverse/)
 - Website: [https://nasa-space-app-challenge-curioverse.netlify.app/](https://nasa-space-app-challenge-curioverse.netlify.app/)
 
 ---
