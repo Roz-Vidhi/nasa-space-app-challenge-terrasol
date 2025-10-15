@@ -176,7 +176,7 @@ TerraSol.com lights a spark in young minds, making space science not just unders
 git clone https://github.com/Roz-Vidhi/nasa-space-app-challenge-terrasol.git
 
 # Navigate to project directory
-cd terrasol
+cd nasa-space-app-challenge-terrasol
 
 # Install dependencies
 npm install
