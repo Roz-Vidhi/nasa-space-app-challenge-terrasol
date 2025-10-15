@@ -173,7 +173,7 @@ TerraSol.com lights a spark in young minds, making space science not just unders
 ### Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/nasa-space-app-challenge-terrasol.git
+git clone https://github.com/Roz-Vidhi/nasa-space-app-challenge-terrasol.git
 
 # Navigate to project directory
 cd terrasol
